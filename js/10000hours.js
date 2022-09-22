@@ -1,5 +1,5 @@
 const modal = document.getElementById('modal');
-const modalOpenBtn = document.getElementById('btn-go');
+const modalOpenBtn = document.querySelector('.btn-go');
 
 //modal 창 오픈
 modalOpenBtn.addEventListener('click', (event) => {

@@ -254,3 +254,7 @@ main {
     padding: 21px 49px;
     
 }
+
+#cont-modal.active{
+    display: block;
+}
